@@ -2,7 +2,7 @@
 
 const nextConfig = {
     compiler: {
-        styledComponets: true,
+        styledComponents: true,
     },
 }
 
